@@ -1,6 +1,6 @@
 Paired Website Project
 
-Devon Chu, Paul Tarr && Lady
+Devon Chu, Paul Tarr && Lady(Doggy)
 
 Documentation------------------------
 
